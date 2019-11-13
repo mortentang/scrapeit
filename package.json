@@ -2,6 +2,7 @@
   "name": "scrapeit",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mortentang.github.io/scrapeit/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",

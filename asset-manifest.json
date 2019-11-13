@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scrapeit/static/css/main.b100e6da.chunk.css",
+    "main.js": "/scrapeit/static/js/main.83eb10d8.chunk.js",
+    "main.js.map": "/scrapeit/static/js/main.83eb10d8.chunk.js.map",
+    "runtime-main.js": "/scrapeit/static/js/runtime-main.ae890a62.js",
+    "runtime-main.js.map": "/scrapeit/static/js/runtime-main.ae890a62.js.map",
+    "static/js/2.07ff2068.chunk.js": "/scrapeit/static/js/2.07ff2068.chunk.js",
+    "static/js/2.07ff2068.chunk.js.map": "/scrapeit/static/js/2.07ff2068.chunk.js.map",
+    "index.html": "/scrapeit/index.html",
+    "precache-manifest.8b3e29a2b589ce5e88e7bed696aad07b.js": "/scrapeit/precache-manifest.8b3e29a2b589ce5e88e7bed696aad07b.js",
+    "service-worker.js": "/scrapeit/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/scrapeit/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/scrapeit/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae890a62.js",
+    "static/js/2.07ff2068.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.83eb10d8.chunk.js"
+  ]
+}

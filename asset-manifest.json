@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scrapeit/static/css/main.04f44aa4.chunk.css",
-    "main.js": "/scrapeit/static/js/main.3f13b750.chunk.js",
-    "main.js.map": "/scrapeit/static/js/main.3f13b750.chunk.js.map",
+    "main.js": "/scrapeit/static/js/main.959b2c2e.chunk.js",
+    "main.js.map": "/scrapeit/static/js/main.959b2c2e.chunk.js.map",
     "runtime-main.js": "/scrapeit/static/js/runtime-main.ae890a62.js",
     "runtime-main.js.map": "/scrapeit/static/js/runtime-main.ae890a62.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/scrapeit/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.e4ad80a2.chunk.js": "/scrapeit/static/js/2.e4ad80a2.chunk.js",
     "static/js/2.e4ad80a2.chunk.js.map": "/scrapeit/static/js/2.e4ad80a2.chunk.js.map",
     "index.html": "/scrapeit/index.html",
-    "precache-manifest.c4749422c5dc3abc11c0e5fef2ba3f04.js": "/scrapeit/precache-manifest.c4749422c5dc3abc11c0e5fef2ba3f04.js",
+    "precache-manifest.40a483438e6e887de80e9de4272ba1d2.js": "/scrapeit/precache-manifest.40a483438e6e887de80e9de4272ba1d2.js",
     "service-worker.js": "/scrapeit/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/scrapeit/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.04f44aa4.chunk.css.map": "/scrapeit/static/css/main.04f44aa4.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.e4ad80a2.chunk.js",
     "static/css/main.04f44aa4.chunk.css",
-    "static/js/main.3f13b750.chunk.js"
+    "static/js/main.959b2c2e.chunk.js"
   ]
 }

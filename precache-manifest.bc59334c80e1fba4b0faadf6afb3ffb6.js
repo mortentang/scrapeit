@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75f847b215bdc0de80a3ae6f17681c0e",
+    "revision": "a97efc59d90f5fd51480f125f32e71cc",
     "url": "/scrapeit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "789c11f33c5381566e83",
+    "revision": "f436e0a2146805334275",
     "url": "/scrapeit/static/css/main.101c1a35.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/js/2.3705e33a.chunk.js"
   },
   {
-    "revision": "789c11f33c5381566e83",
-    "url": "/scrapeit/static/js/main.b13f9282.chunk.js"
+    "revision": "f436e0a2146805334275",
+    "url": "/scrapeit/static/js/main.050e1e1f.chunk.js"
   },
   {
     "revision": "3b58e60c15706b9159d2",

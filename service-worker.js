@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scrapeit/precache-manifest.bc59334c80e1fba4b0faadf6afb3ffb6.js"
+  "/scrapeit/precache-manifest.d744269b77a7cb7d8252a60b3a1b0672.js"
 );
 
 self.addEventListener('message', (event) => {

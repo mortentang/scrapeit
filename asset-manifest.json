@@ -1,25 +1,37 @@
 {
   "files": {
-    "main.css": "/scrapeit/static/css/main.6067cb73.chunk.css",
-    "main.js": "/scrapeit/static/js/main.759fb57c.chunk.js",
-    "main.js.map": "/scrapeit/static/js/main.759fb57c.chunk.js.map",
+    "main.css": "/scrapeit/static/css/main.b86d16f7.chunk.css",
+    "main.js": "/scrapeit/static/js/main.cc1c6b58.chunk.js",
+    "main.js.map": "/scrapeit/static/js/main.cc1c6b58.chunk.js.map",
     "runtime-main.js": "/scrapeit/static/js/runtime-main.ae890a62.js",
     "runtime-main.js.map": "/scrapeit/static/js/runtime-main.ae890a62.js.map",
     "static/css/2.0d54c817.chunk.css": "/scrapeit/static/css/2.0d54c817.chunk.css",
-    "static/js/2.76fdfcab.chunk.js": "/scrapeit/static/js/2.76fdfcab.chunk.js",
-    "static/js/2.76fdfcab.chunk.js.map": "/scrapeit/static/js/2.76fdfcab.chunk.js.map",
+    "static/js/2.4cff53f5.chunk.js": "/scrapeit/static/js/2.4cff53f5.chunk.js",
+    "static/js/2.4cff53f5.chunk.js.map": "/scrapeit/static/js/2.4cff53f5.chunk.js.map",
     "index.html": "/scrapeit/index.html",
-    "precache-manifest.f28877c9b329f1db7fab315a95e63c3d.js": "/scrapeit/precache-manifest.f28877c9b329f1db7fab315a95e63c3d.js",
+    "precache-manifest.de37ec8205aad4774aba18333128b386.js": "/scrapeit/precache-manifest.de37ec8205aad4774aba18333128b386.js",
     "service-worker.js": "/scrapeit/service-worker.js",
     "static/css/2.0d54c817.chunk.css.map": "/scrapeit/static/css/2.0d54c817.chunk.css.map",
-    "static/css/main.6067cb73.chunk.css.map": "/scrapeit/static/css/main.6067cb73.chunk.css.map",
-    "static/media/logo.png": "/scrapeit/static/media/logo.43cbfe15.png"
+    "static/css/main.b86d16f7.chunk.css.map": "/scrapeit/static/css/main.b86d16f7.chunk.css.map",
+    "static/media/graph_DotA2.png": "/scrapeit/static/media/graph_DotA2.45c6c126.png",
+    "static/media/graph_anime.png": "/scrapeit/static/media/graph_anime.314a4360.png",
+    "static/media/graph_askscience.png": "/scrapeit/static/media/graph_askscience.d2969e5a.png",
+    "static/media/graph_explainlikeimfive.png": "/scrapeit/static/media/graph_explainlikeimfive.6c990e27.png",
+    "static/media/graph_formula1.png": "/scrapeit/static/media/graph_formula1.86ad45b0.png",
+    "static/media/graph_politics.png": "/scrapeit/static/media/graph_politics.a576f108.png",
+    "static/media/graph_science.png": "/scrapeit/static/media/graph_science.77e617bd.png",
+    "static/media/graph_wholesomememes.png": "/scrapeit/static/media/graph_wholesomememes.afcb9fe6.png",
+    "static/media/graph_worldnews.png": "/scrapeit/static/media/graph_worldnews.41bffc10.png",
+    "static/media/indegree.png": "/scrapeit/static/media/indegree.0c084943.png",
+    "static/media/logo.png": "/scrapeit/static/media/logo.43cbfe15.png",
+    "static/media/outdegree.png": "/scrapeit/static/media/outdegree.1a98a067.png",
+    "static/media/weight.png": "/scrapeit/static/media/weight.47f24b1f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ae890a62.js",
     "static/css/2.0d54c817.chunk.css",
-    "static/js/2.76fdfcab.chunk.js",
-    "static/css/main.6067cb73.chunk.css",
-    "static/js/main.759fb57c.chunk.js"
+    "static/js/2.4cff53f5.chunk.js",
+    "static/css/main.b86d16f7.chunk.css",
+    "static/js/main.cc1c6b58.chunk.js"
   ]
 }

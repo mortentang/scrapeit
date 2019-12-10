@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "799deb2e6449474ca163133024176339",
+    "revision": "edd4c04745bcc16ca4a3596455ad324a",
     "url": "/scrapeit/index.html"
   },
   {
-    "revision": "22134cda1ca09544b6e3",
+    "revision": "6717a3b6bfe012f38ae2",
     "url": "/scrapeit/static/css/2.0d54c817.chunk.css"
   },
   {
-    "revision": "be09b587ccafdb3f475e",
+    "revision": "fd7e9b3a0506d38b6e30",
     "url": "/scrapeit/static/css/main.63d894df.chunk.css"
   },
   {
-    "revision": "22134cda1ca09544b6e3",
-    "url": "/scrapeit/static/js/2.305b322d.chunk.js"
+    "revision": "6717a3b6bfe012f38ae2",
+    "url": "/scrapeit/static/js/2.010453b4.chunk.js"
   },
   {
-    "revision": "be09b587ccafdb3f475e",
-    "url": "/scrapeit/static/js/main.70db2095.chunk.js"
+    "revision": "fd7e9b3a0506d38b6e30",
+    "url": "/scrapeit/static/js/main.1e7ed288.chunk.js"
   },
   {
     "revision": "3b58e60c15706b9159d2",
@@ -52,6 +52,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/DotA2_993_3.fbe43d15.png"
   },
   {
+    "revision": "a15540fe846ddbe15c4aa8ee7cd3281c",
+    "url": "/scrapeit/static/media/anime_1.a15540fe.png"
+  },
+  {
+    "revision": "bdf02e9b2583840934b172a3625f2b30",
+    "url": "/scrapeit/static/media/anime_2.bdf02e9b.png"
+  },
+  {
+    "revision": "76086b1acccd64786e48bbf1921205ed",
+    "url": "/scrapeit/static/media/anime_3.76086b1a.png"
+  },
+  {
+    "revision": "31cedbbde510b73a4bc78dec6fba4e35",
+    "url": "/scrapeit/static/media/anime_4.31cedbbd.png"
+  },
+  {
+    "revision": "32bd7326148026ab5493ce35e971d38d",
+    "url": "/scrapeit/static/media/anime_5.32bd7326.png"
+  },
+  {
+    "revision": "5788ffd8c472dec81a5f61742e25920e",
+    "url": "/scrapeit/static/media/anime_6.5788ffd8.png"
+  },
+  {
     "revision": "adad576f2ee9e1a93be2bf1147ff9594",
     "url": "/scrapeit/static/media/askscienceGraph_1_1673.adad576f.png"
   },
@@ -84,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/cent_vs_sentiment.c8f281f4.png"
   },
   {
-    "revision": "ce0a8c784b7596f74a5eab80dcf5c9b6",
-    "url": "/scrapeit/static/media/central_vs_score.ce0a8c78.png"
+    "revision": "a77cc0674b0ccfb25d3e80107ac0060b",
+    "url": "/scrapeit/static/media/central_vs_score.a77cc067.png"
   },
   {
-    "revision": "d1f5a10d95bca0678e53591198f910fd",
-    "url": "/scrapeit/static/media/communiyDist.d1f5a10d.png"
+    "revision": "5fe3b38ba03d28bdd0c6ae5d7d2767bc",
+    "url": "/scrapeit/static/media/communiyDist.5fe3b38b.png"
   },
   {
     "revision": "bc4cfb2c096d51a91e988b72da3e2b34",
@@ -108,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/dakbkr.c7fa06c7.png"
   },
   {
-    "revision": "ea38b275f3b795575e5529af806b2628",
-    "url": "/scrapeit/static/media/eigendist.ea38b275.png"
+    "revision": "4dd9a0f326fc8916ef78fcd0fe14bd91",
+    "url": "/scrapeit/static/media/eigendist.4dd9a0f3.png"
   },
   {
     "revision": "d27d108e5e54cfb4000e166aa5c3afce",
@@ -196,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/graph_worldnews.41bffc10.png"
   },
   {
-    "revision": "0c084943679dd5c586764991fe9b82e3",
-    "url": "/scrapeit/static/media/indegree.0c084943.png"
+    "revision": "3f19e0b31de3c6d04af448cf67538f20",
+    "url": "/scrapeit/static/media/indegree.3f19e0b3.png"
   },
   {
     "revision": "43cbfe1558c7cfd76629ec91d7396fc4",
@@ -208,8 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/negativeUsers.c3eebd6b.png"
   },
   {
-    "revision": "1a98a0678a7161318d0e24e1932abe58",
-    "url": "/scrapeit/static/media/outdegree.1a98a067.png"
+    "revision": "2c4ae33ce28297608b9a8effd4b67495",
+    "url": "/scrapeit/static/media/outdegree.2c4ae33c.png"
   },
   {
     "revision": "544f74ba5d44e44d56e40613dc744aa2",
@@ -264,8 +288,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrapeit/static/media/subreddit_sent_score.af24b6ec.png"
   },
   {
-    "revision": "47f24b1fa75042d1031f073243ab4b2e",
-    "url": "/scrapeit/static/media/weight.47f24b1f.png"
+    "revision": "588cc11af8b0b6df039caf80e2f2a43f",
+    "url": "/scrapeit/static/media/weight.588cc11a.png"
   },
   {
     "revision": "2cc2008f074ceaa6dd7939d6af4f4397",

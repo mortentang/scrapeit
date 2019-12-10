@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/scrapeit/static/css/main.eae03956.chunk.css",
-    "main.js": "/scrapeit/static/js/main.86ba0123.chunk.js",
-    "main.js.map": "/scrapeit/static/js/main.86ba0123.chunk.js.map",
+    "main.css": "/scrapeit/static/css/main.63d894df.chunk.css",
+    "main.js": "/scrapeit/static/js/main.70db2095.chunk.js",
+    "main.js.map": "/scrapeit/static/js/main.70db2095.chunk.js.map",
     "runtime-main.js": "/scrapeit/static/js/runtime-main.ae890a62.js",
     "runtime-main.js.map": "/scrapeit/static/js/runtime-main.ae890a62.js.map",
     "static/css/2.0d54c817.chunk.css": "/scrapeit/static/css/2.0d54c817.chunk.css",
     "static/js/2.305b322d.chunk.js": "/scrapeit/static/js/2.305b322d.chunk.js",
     "static/js/2.305b322d.chunk.js.map": "/scrapeit/static/js/2.305b322d.chunk.js.map",
     "index.html": "/scrapeit/index.html",
-    "precache-manifest.2e38c89ae54c94c2340d21b752d177c0.js": "/scrapeit/precache-manifest.2e38c89ae54c94c2340d21b752d177c0.js",
+    "precache-manifest.f52482b8041fa67f9e1582717ef3ae28.js": "/scrapeit/precache-manifest.f52482b8041fa67f9e1582717ef3ae28.js",
     "service-worker.js": "/scrapeit/service-worker.js",
     "static/css/2.0d54c817.chunk.css.map": "/scrapeit/static/css/2.0d54c817.chunk.css.map",
-    "static/css/main.eae03956.chunk.css.map": "/scrapeit/static/css/main.eae03956.chunk.css.map",
+    "static/css/main.63d894df.chunk.css.map": "/scrapeit/static/css/main.63d894df.chunk.css.map",
     "static/media/6th-biggest_com.png": "/scrapeit/static/media/6th-biggest_com.9f180c86.png",
     "static/media/DotA2_2303_2.png": "/scrapeit/static/media/DotA2_2303_2.a9ca4a30.png",
     "static/media/DotA2_3561_4.png": "/scrapeit/static/media/DotA2_3561_4.5fbe6c0b.png",
@@ -91,7 +91,7 @@
     "static/js/runtime-main.ae890a62.js",
     "static/css/2.0d54c817.chunk.css",
     "static/js/2.305b322d.chunk.js",
-    "static/css/main.eae03956.chunk.css",
-    "static/js/main.86ba0123.chunk.js"
+    "static/css/main.63d894df.chunk.css",
+    "static/js/main.70db2095.chunk.js"
   ]
 }

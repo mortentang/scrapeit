@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/scrapeit/static/css/main.63d894df.chunk.css",
-    "main.js": "/scrapeit/static/js/main.1e7ed288.chunk.js",
-    "main.js.map": "/scrapeit/static/js/main.1e7ed288.chunk.js.map",
+    "main.css": "/scrapeit/static/css/main.9dd565b1.chunk.css",
+    "main.js": "/scrapeit/static/js/main.f42bea9f.chunk.js",
+    "main.js.map": "/scrapeit/static/js/main.f42bea9f.chunk.js.map",
     "runtime-main.js": "/scrapeit/static/js/runtime-main.ae890a62.js",
     "runtime-main.js.map": "/scrapeit/static/js/runtime-main.ae890a62.js.map",
     "static/css/2.0d54c817.chunk.css": "/scrapeit/static/css/2.0d54c817.chunk.css",
-    "static/js/2.010453b4.chunk.js": "/scrapeit/static/js/2.010453b4.chunk.js",
-    "static/js/2.010453b4.chunk.js.map": "/scrapeit/static/js/2.010453b4.chunk.js.map",
+    "static/js/2.bee43404.chunk.js": "/scrapeit/static/js/2.bee43404.chunk.js",
+    "static/js/2.bee43404.chunk.js.map": "/scrapeit/static/js/2.bee43404.chunk.js.map",
     "index.html": "/scrapeit/index.html",
-    "precache-manifest.b78558f6306dd6941271ab6113efc2ac.js": "/scrapeit/precache-manifest.b78558f6306dd6941271ab6113efc2ac.js",
+    "precache-manifest.8eeb8e3bb18ba7fdd05377613eab1769.js": "/scrapeit/precache-manifest.8eeb8e3bb18ba7fdd05377613eab1769.js",
     "service-worker.js": "/scrapeit/service-worker.js",
     "static/css/2.0d54c817.chunk.css.map": "/scrapeit/static/css/2.0d54c817.chunk.css.map",
-    "static/css/main.63d894df.chunk.css.map": "/scrapeit/static/css/main.63d894df.chunk.css.map",
+    "static/css/main.9dd565b1.chunk.css.map": "/scrapeit/static/css/main.9dd565b1.chunk.css.map",
     "static/media/6th-biggest_com.png": "/scrapeit/static/media/6th-biggest_com.9f180c86.png",
     "static/media/DotA2_2303_2.png": "/scrapeit/static/media/DotA2_2303_2.a9ca4a30.png",
     "static/media/DotA2_3561_4.png": "/scrapeit/static/media/DotA2_3561_4.5fbe6c0b.png",
@@ -26,6 +26,8 @@
     "static/media/anime_4.png": "/scrapeit/static/media/anime_4.31cedbbd.png",
     "static/media/anime_5.png": "/scrapeit/static/media/anime_5.32bd7326.png",
     "static/media/anime_6.png": "/scrapeit/static/media/anime_6.5788ffd8.png",
+    "static/media/ask-science1.png": "/scrapeit/static/media/ask-science1.7f1a65f8.png",
+    "static/media/ask-science2.png": "/scrapeit/static/media/ask-science2.5e875139.png",
     "static/media/askscienceGraph_1_1673.png": "/scrapeit/static/media/askscienceGraph_1_1673.adad576f.png",
     "static/media/askscienceGraph_2_9088.png": "/scrapeit/static/media/askscienceGraph_2_9088.b4340f9d.png",
     "static/media/askscienceGraph_3_482.png": "/scrapeit/static/media/askscienceGraph_3_482.5f41c18b.png",
@@ -47,6 +49,8 @@
     "static/media/explainlikeimfive_3_80519.png": "/scrapeit/static/media/explainlikeimfive_3_80519.b0859e1b.png",
     "static/media/explainlikeimfive_4_6495.png": "/scrapeit/static/media/explainlikeimfive_4_6495.7328ad75.png",
     "static/media/explainlikeimfive_9_7458.png": "/scrapeit/static/media/explainlikeimfive_9_7458.0c3d152c.png",
+    "static/media/formula-anime_1.png": "/scrapeit/static/media/formula-anime_1.9ff13a23.png",
+    "static/media/formula-anime_2.png": "/scrapeit/static/media/formula-anime_2.aaceefd9.png",
     "static/media/formula1_1.png": "/scrapeit/static/media/formula1_1.4c26c378.png",
     "static/media/formula1_2.png": "/scrapeit/static/media/formula1_2.cdfb282f.png",
     "static/media/formula1_3.png": "/scrapeit/static/media/formula1_3.e331aae0.png",
@@ -96,8 +100,8 @@
   "entrypoints": [
     "static/js/runtime-main.ae890a62.js",
     "static/css/2.0d54c817.chunk.css",
-    "static/js/2.010453b4.chunk.js",
-    "static/css/main.63d894df.chunk.css",
-    "static/js/main.1e7ed288.chunk.js"
+    "static/js/2.bee43404.chunk.js",
+    "static/css/main.9dd565b1.chunk.css",
+    "static/js/main.f42bea9f.chunk.js"
   ]
 }

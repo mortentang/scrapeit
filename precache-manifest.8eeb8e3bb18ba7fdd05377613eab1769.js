@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edd4c04745bcc16ca4a3596455ad324a",
+    "revision": "e6f691b1239f91873e43baf50dfc7ce6",
     "url": "/scrapeit/index.html"
   },
   {
-    "revision": "6717a3b6bfe012f38ae2",
+    "revision": "c090e2ed7c3b12f060c6",
     "url": "/scrapeit/static/css/2.0d54c817.chunk.css"
   },
   {
-    "revision": "fd7e9b3a0506d38b6e30",
-    "url": "/scrapeit/static/css/main.63d894df.chunk.css"
+    "revision": "1865894dae5c825bd2f3",
+    "url": "/scrapeit/static/css/main.9dd565b1.chunk.css"
   },
   {
-    "revision": "6717a3b6bfe012f38ae2",
-    "url": "/scrapeit/static/js/2.010453b4.chunk.js"
+    "revision": "c090e2ed7c3b12f060c6",
+    "url": "/scrapeit/static/js/2.bee43404.chunk.js"
   },
   {
-    "revision": "fd7e9b3a0506d38b6e30",
-    "url": "/scrapeit/static/js/main.1e7ed288.chunk.js"
+    "revision": "1865894dae5c825bd2f3",
+    "url": "/scrapeit/static/js/main.f42bea9f.chunk.js"
   },
   {
     "revision": "3b58e60c15706b9159d2",
@@ -74,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5788ffd8c472dec81a5f61742e25920e",
     "url": "/scrapeit/static/media/anime_6.5788ffd8.png"
+  },
+  {
+    "revision": "7f1a65f8171b3624fc6f92251e7dfbda",
+    "url": "/scrapeit/static/media/ask-science1.7f1a65f8.png"
+  },
+  {
+    "revision": "5e87513986ae66132a7a312b3ead50ff",
+    "url": "/scrapeit/static/media/ask-science2.5e875139.png"
   },
   {
     "revision": "adad576f2ee9e1a93be2bf1147ff9594",
@@ -158,6 +166,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c3d152c517a021396bbd2d920eec22a",
     "url": "/scrapeit/static/media/explainlikeimfive_9_7458.0c3d152c.png"
+  },
+  {
+    "revision": "9ff13a23ae4b77756bdbb66b4f79ff57",
+    "url": "/scrapeit/static/media/formula-anime_1.9ff13a23.png"
+  },
+  {
+    "revision": "aaceefd97b8aab731ce67503f24c3c8a",
+    "url": "/scrapeit/static/media/formula-anime_2.aaceefd9.png"
   },
   {
     "revision": "4c26c37818fb0ada409c1ab5f9042056",

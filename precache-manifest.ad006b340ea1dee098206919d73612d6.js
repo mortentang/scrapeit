@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd4c6c8f0d3553b4d5e5bf3dae179a23",
+    "revision": "193aacc1ad67dcc08412bd8955c40991",
     "url": "/scrapeit/index.html"
   },
   {
